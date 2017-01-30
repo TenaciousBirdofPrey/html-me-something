@@ -1,0 +1,37 @@
+
+body {
+    background-color: lightgrey;
+}
+
+main {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+
+p {
+
+
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+
+.head {
+    background-color:skyblue;
+    text-align: center;
+}
+
+#sub-header {
+    padding-left: 80px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
